@@ -1,2 +1,2 @@
 # gen-ai
-Gen AI  examples
+Various examples of Gen AI on AWS
